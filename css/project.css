@@ -1,0 +1,151 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+    box-sizing: border-box;
+}
+header{
+    background-image: url(../img/Group\ 1758.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 109vh;
+   padding: 1%;
+}
+
+.container-fluid a{
+    margin-right:17%; 
+    margin-left: 4%; 
+}
+ ul li{
+    padding-right: 4%;
+    /* color: #fff; */
+    
+}
+.nav-item a {
+    color: #fff;
+    font-size: 1.5rem;
+  
+}
+.nav-item a :hover{
+    text-decoration: underline;
+    outline: blue;
+  
+  
+}
+.item .btn{
+ width: 10vw;
+ border-top: none;
+ border-radius: 20px;
+ font-size: 1.5rem;
+}
+.container-a{
+    margin: 5%;
+    /* display: flex; */
+}
+.head2{
+    margin: 5%;
+    
+    display: flex;
+    justify-content: space-between;
+    
+}
+.new{
+    flex-basis: 100%;
+    margin-top: 2.5%;
+}
+.new h2{
+    text-transform: capitalize;
+    color: white;
+    font-size: 3rem;
+    margin-bottom: 2%;
+
+}
+.new p{
+    text-transform: capitalize;
+    color: white;
+    /* width: 100vw; */
+    font-size: 1.4rem;
+    margin-bottom: 2%;
+    font-weight: lighter;
+
+}
+.new .btn{
+    width: 10vw;
+    height: 6vh;
+    font-weight: bold;
+    margin-left: 4%;
+}
+.img img{
+    position: absolute;
+    right: 70px;
+    top: 40px;
+}
+
+.container-b{
+    margin: 4%;
+    padding: 3%;
+    /* width: 100vw; */
+}
+ .group2{
+    margin: auto;
+    text-align: center;
+   
+}
+.group2 h2{
+    text-transform: capitalize;
+    font-size: 3rem;
+    line-height: 4rem;
+
+}
+.group2 p{
+    line-height: 1.7rem;
+    font-weight: lighter;
+    text-transform: capitalize;
+    font-size: 1.5rem;
+
+}
+.card-a{
+    margin: 5%;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-a .card{
+    width: 18vw;
+    border: none;
+    box-shadow: 2px 2px 2px 4px rgb(221, 221, 221);
+}
+.card-body{
+    text-transform: capitalize;
+}
+.card-a img{
+    width: 10vw;
+    margin:4% auto;
+}
+.head3{
+   
+    display: flex;
+    justify-content: space-evenly;
+}
+.head3 .new2{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.img2 img{
+    width: 40vw;
+    flex-grow: 7;
+    /* height: 0vh; */
+}
+.new2 h2{
+    text-transform: capitalize;
+    font-size: 2.5rem;
+    margin-bottom: 3% ;
+
+}
+.new2 p{
+    margin-bottom: 6%;
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
