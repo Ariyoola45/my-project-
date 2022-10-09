@@ -4,6 +4,7 @@
     
     box-sizing: border-box;
 }
+
 header{
     background-image: url(../img/Group\ 1758.png);
     background-size: cover;
@@ -148,4 +149,44 @@ header{
     margin-bottom: 6%;
     font-size: 1.5rem;
     font-weight: lighter;
+}
+.group4{
+    margin: 2%;
+    padding: 10px;
+
+}
+.head4{
+    text-align: center;
+}
+.head4 h2{
+    text-transform: capitalize;
+    font-size: 2.5rem;
+    
+}
+.head4 p{
+    text-transform: capitalize;
+    font-size: 1.5rem;
+
+}
+.skin{
+    margin-top:4%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.icon .a{
+    color: blue;
+}
+.icon2{
+    padding: 10px;
+ background-color: white;
+    text-align: justify;
+  color:blue;
+  width: 13vw;
+  height: 10vh;
+  border: 1px solid  none;
+  border-radius: 60px 20px;
+  box-shadow: 1px 1px 1px 4px rgb(231, 231, 231);
+}
+.icon2 span{
+    padding: 100px 50px 0px  40px;
 }
