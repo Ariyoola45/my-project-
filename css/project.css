@@ -190,3 +190,91 @@ header{
 .icon2 span{
     padding: 100px 50px 0px  40px;
 }
+.group5{
+    margin: 5%;
+    padding: 1%;
+}
+.head6{
+    text-align: center;
+}
+.head6 h2{
+    font-size: 1.5rem;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.head6 p{
+    font-size: 1.3rem;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.img3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.img3 .one img{
+    width: 47vh;
+}
+.group6{
+    margin-left: 7%;
+}
+.our h2{
+    text-transform: capitalize;
+    margin-bottom: 1%;
+}
+.para {
+    position: relative;
+    display: flex;
+    
+}
+.para button{
+    position: absolute;
+    right:  10%;
+    height:5vh;
+    width: 10vw;
+    justify-self: unset;
+}
+.para p{
+    text-transform: capitalize;
+}
+
+.group7{
+    
+    width: 88vw;
+    border: 1px solid none;
+
+    margin-top: 2%;
+}
+.con{
+    display: flex;
+    overflow: hidden;
+}
+.con .two img{
+    width: 20vw;
+    margin-right: 19%;
+    overflow: hidden;
+}
+.two1{
+    width: 63vw;
+    height: 47.2vh;
+    padding: 5.5%;
+    background-color: rgb(219, 219, 219);
+ overflow: hidden;
+
+}
+.two img{
+
+    margin-bottom: 40px;
+}
+.two1 p{
+    margin-top: 3%;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.two1 a{
+    text-decoration: none;
+}
+
+
+
+
